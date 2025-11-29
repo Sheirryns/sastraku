@@ -152,7 +152,6 @@ main {
     form {
         display: flex;
         flex-direction: row;
-        width: 62px;
         flex-direction: column;
         gap: 12px;
     }
