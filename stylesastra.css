@@ -152,7 +152,7 @@ main {
     form {
         display: flex;
         flex-direction: row;
-        gap: 12px;
+        gap: 8px;
     }
     .h-title {
         font-size: 42px;
